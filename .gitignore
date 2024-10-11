@@ -1,0 +1,9 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/.vs
+/wakeAllStorages/bin
+/wakeAllStorages/obj
+/wakeAllStorages/wakeAllStorages.csproj.user
+/wakeAllStorages/Properties/PublishProfiles/FolderProfile.pubxml.user
