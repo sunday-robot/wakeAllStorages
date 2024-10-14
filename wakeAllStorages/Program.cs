@@ -37,11 +37,7 @@
                 Console.WriteLine("");
 
                 // 1分sleepする。
-#if true
                 Thread.Sleep(60 * 1000);
-#else
-                Thread.Sleep(1000);
-#endif
             }
         }
     }
